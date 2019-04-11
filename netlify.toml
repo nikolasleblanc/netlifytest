@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/app/*"
+  to = "http://159.203.124.84/app/:splat"
+  status = 200
