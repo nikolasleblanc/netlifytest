@@ -7,3 +7,8 @@
   from = "/app/*"
   to = "http://159.203.124.84/app/:splat"
   status = 200
+
+[[redirects]]
+  from = "/pdf/*"
+  to = "http://159.203.124.84/pdf/:splat"
+  status = 200
